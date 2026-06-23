@@ -1,36 +1,46 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Scout Frontend Dashboard
+
+This is the Next.js frontend application for **Scout**, a recruiter-facing dashboard designed to interface with the Scout Candidate Ranking API. It provides a visual interface for recruiters to rank, analyze, and deep-dive into AI/ML candidate profiles.
+
+## Features
+
+- **Live Ranking Interface (`/rank`)**: Submit a Job Description (JD) to the backend API and retrieve ranked candidate results in real-time.
+- **Results Dashboard (`/results`)**: View top candidates, their structured scores, credibility flags, and reasoning.
+- **Candidate Deep Dive (`/candidate/[id]`)**: Explore detailed structural breakdowns, skill matches, and career timeline for individual candidates.
+- **System Architecture (`/architecture`)**: Documentation of the frontend and backend technical architecture.
+- **Case Study (`/case-study`)**: Detailed analysis of how the system performs against keyword-stuffing and resume fraud.
+
+## Technology Stack
+
+- **Framework**: [Next.js 15](https://nextjs.org/) (App Router)
+- **Styling**: Tailwind CSS
+- **Components**: UI components built with Radix UI primitives and styled for modern, high-contrast usability.
+- **Icons**: Lucide React
+- **Integration**: Fetches live data directly from the Scout FastAPI Backend (`http://localhost:8000`).
 
 ## Getting Started
 
-First, run the development server:
+First, ensure the backend API is running (see the root directory README for instructions).
+
+Then, run the frontend development server:
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Project Structure
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- `/src/app`: Contains all Next.js page routes (`/rank`, `/results`, `/candidate`, etc.).
+- `/src/components`: Reusable React components (Navbar, UI primitives).
+- `/src/lib`: Utility functions and API integration logic (`api.ts`).
 
-## Learn More
+## API Integration
 
-To learn more about Next.js, take a look at the following resources:
+The frontend expects the Scout backend API to be running on `http://localhost:8000`. Key endpoints utilized include:
+- `POST /rank-candidates`: Submits JD text and retrieves the ranked list.
+- `GET /candidate/{id}`: Retrieves deep-dive feature metadata for a specific candidate.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+If your backend is hosted elsewhere, update the API base URL in `src/lib/api.ts`.
