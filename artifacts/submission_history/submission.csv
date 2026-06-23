@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_0034849,1,0.99,AI Research Engineer with 3.1 yrs; 12 skills listed; response rate 0.29; TF-IDF similarity 0.1592.
+CAND_0085853,2,0.983,Data Engineer with 2.1 yrs; 16 skills listed; response rate 0.74; TF-IDF similarity 0.1589.
+CAND_0058504,3,0.9725,Computer Vision Engineer with 4.8 yrs; 16 skills listed; response rate 0.35; TF-IDF similarity 0.1585.
+CAND_0014234,4,0.8041,Junior ML Engineer with 5.4 yrs; 16 skills listed; response rate 0.49; TF-IDF similarity 0.1516.
+CAND_0048219,5,0.725,Computer Vision Engineer with 5.4 yrs; 13 skills listed; response rate 0.26; TF-IDF similarity 0.1483.
+CAND_0031982,6,0.7019,Computer Vision Engineer with 3.7 yrs; 17 skills listed; response rate 0.79; TF-IDF similarity 0.1474.
+CAND_0065450,7,0.6467,ML Engineer with 4.0 yrs; 13 skills listed; response rate 0.30; TF-IDF similarity 0.1451.
+CAND_0034645,8,0.6365,Senior Software Engineer (ML) with 3.7 yrs; 15 skills listed; response rate 0.83; TF-IDF similarity 0.1447.
+CAND_0014237,9,0.6329,Data Scientist with 4.2 yrs; 12 skills listed; response rate 0.74; TF-IDF similarity 0.1445.
+CAND_0052579,10,0.6253,Computer Vision Engineer with 3.3 yrs; 19 skills listed; response rate 0.45; TF-IDF similarity 0.1442.
+CAND_0011923,11,0.6155,AI Research Engineer with 4.0 yrs; 16 skills listed; response rate 0.27; TF-IDF similarity 0.1438.
+CAND_0045778,12,0.6017,Senior Software Engineer (ML) with 4.4 yrs; 10 skills listed; response rate 0.83; TF-IDF similarity 0.1432.
+CAND_0093530,13,0.568,Senior Software Engineer (ML) with 3.2 yrs; 17 skills listed; response rate 0.77; TF-IDF similarity 0.1419.
+CAND_0052706,14,0.5608,AI Research Engineer with 5.1 yrs; 16 skills listed; response rate 0.79; TF-IDF similarity 0.1416.
+CAND_0091254,15,0.5417,AI Research Engineer with 5.2 yrs; 18 skills listed; response rate 0.53; TF-IDF similarity 0.1408.
+CAND_0007411,16,0.5366,Senior Machine Learning Engineer with 8.0 yrs; 14 skills listed; response rate 0.12; TF-IDF similarity 0.1406.
+CAND_0086790,17,0.5185,ML Engineer with 3.9 yrs; 12 skills listed; response rate 0.80; TF-IDF similarity 0.1398.
+CAND_0001056,18,0.5107,Computer Vision Engineer with 5.1 yrs; 12 skills listed; response rate 0.84; TF-IDF similarity 0.1395.
+CAND_0072670,19,0.5099,ML Engineer with 4.9 yrs; 13 skills listed; response rate 0.54; TF-IDF similarity 0.1395.
+CAND_0088526,20,0.5039,Senior Software Engineer (ML) with 4.6 yrs; 15 skills listed; response rate 0.80; TF-IDF similarity 0.1392.
+CAND_0017090,21,0.497,Senior Software Engineer (ML) with 5.5 yrs; 11 skills listed; response rate 0.71; TF-IDF similarity 0.1389.
+CAND_0001940,22,0.497,AI Research Engineer with 4.3 yrs; 15 skills listed; response rate 0.87; TF-IDF similarity 0.1389.
+CAND_0058783,23,0.494,Computer Vision Engineer with 3.2 yrs; 10 skills listed; response rate 0.92; TF-IDF similarity 0.1388.
+CAND_0037290,24,0.4872,Computer Vision Engineer with 3.2 yrs; 13 skills listed; response rate 0.78; TF-IDF similarity 0.1385.
+CAND_0060699,25,0.4866,ML Engineer with 3.1 yrs; 15 skills listed; response rate 0.75; TF-IDF similarity 0.1385.
+CAND_0072203,26,0.4852,Data Scientist with 3.1 yrs; 12 skills listed; response rate 0.42; TF-IDF similarity 0.1385.
+CAND_0059440,27,0.4655,AI Research Engineer with 3.6 yrs; 12 skills listed; response rate 0.42; TF-IDF similarity 0.1376.
+CAND_0087841,28,0.4602,Senior Software Engineer (ML) with 3.7 yrs; 13 skills listed; response rate 0.52; TF-IDF similarity 0.1374.
+CAND_0048862,29,0.4537,Senior Software Engineer (ML) with 5.7 yrs; 14 skills listed; response rate 0.53; TF-IDF similarity 0.1372.
+CAND_0003292,30,0.4326,Analytics Engineer with 4.1 yrs; 9 skills listed; response rate 0.41; TF-IDF similarity 0.1363.
+CAND_0040677,31,0.4295,AI Research Engineer with 4.2 yrs; 15 skills listed; response rate 0.37; TF-IDF similarity 0.1362.
+CAND_0084963,32,0.4282,Data Scientist with 3.9 yrs; 16 skills listed; response rate 0.53; TF-IDF similarity 0.1361.
+CAND_0051276,33,0.4266,ML Engineer with 3.1 yrs; 16 skills listed; response rate 0.64; TF-IDF similarity 0.1360.
+CAND_0080794,34,0.4257,AI Research Engineer with 6.2 yrs; 13 skills listed; response rate 0.49; TF-IDF similarity 0.1360.
+CAND_0067535,35,0.425,Junior ML Engineer with 6.8 yrs; 12 skills listed; response rate 0.81; TF-IDF similarity 0.1360.
+CAND_0059400,36,0.415,Data Scientist with 3.7 yrs; 15 skills listed; response rate 0.84; TF-IDF similarity 0.1356.
+CAND_0058517,37,0.3987,Computer Vision Engineer with 5.1 yrs; 16 skills listed; response rate 0.36; TF-IDF similarity 0.1349.
+CAND_0055362,38,0.3924,Senior Software Engineer (ML) with 3.1 yrs; 11 skills listed; response rate 0.84; TF-IDF similarity 0.1346.
+CAND_0020820,39,0.3798,Computer Vision Engineer with 3.2 yrs; 17 skills listed; response rate 0.84; TF-IDF similarity 0.1341.
+CAND_0005269,40,0.3705,Senior Software Engineer (ML) with 6.1 yrs; 15 skills listed; response rate 0.28; TF-IDF similarity 0.1337.
+CAND_0050553,41,0.3698,ML Engineer with 3.6 yrs; 15 skills listed; response rate 0.95; TF-IDF similarity 0.1337.
+CAND_0040506,42,0.3628,AI Research Engineer with 3.9 yrs; 11 skills listed; response rate 0.43; TF-IDF similarity 0.1334.
+CAND_0088441,43,0.3623,AI Specialist with 6.5 yrs; 10 skills listed; response rate 0.38; TF-IDF similarity 0.1334.
+CAND_0046095,44,0.3593,ML Engineer with 3.9 yrs; 16 skills listed; response rate 0.46; TF-IDF similarity 0.1333.
+CAND_0044213,45,0.3529,AI Specialist with 3.7 yrs; 16 skills listed; response rate 0.89; TF-IDF similarity 0.1330.
+CAND_0064888,46,0.3528,ML Engineer with 5.8 yrs; 13 skills listed; response rate 0.92; TF-IDF similarity 0.1330.
+CAND_0030155,47,0.3525,Data Scientist with 5.6 yrs; 13 skills listed; response rate 0.44; TF-IDF similarity 0.1330.
+CAND_0057369,48,0.3512,Computer Vision Engineer with 3.4 yrs; 17 skills listed; response rate 0.60; TF-IDF similarity 0.1329.
+CAND_0011135,49,0.3503,Data Scientist with 4.7 yrs; 16 skills listed; response rate 0.29; TF-IDF similarity 0.1329.
+CAND_0011263,50,0.3469,ML Engineer with 5.1 yrs; 14 skills listed; response rate 0.42; TF-IDF similarity 0.1328.
+CAND_0084090,51,0.3452,Junior ML Engineer with 3.9 yrs; 16 skills listed; response rate 0.74; TF-IDF similarity 0.1327.
+CAND_0078579,52,0.3433,Data Scientist with 4.7 yrs; 15 skills listed; response rate 0.82; TF-IDF similarity 0.1326.
+CAND_0081563,53,0.3425,ML Engineer with 6.9 yrs; 13 skills listed; response rate 0.59; TF-IDF similarity 0.1326.
+CAND_0055004,54,0.3422,Computer Vision Engineer with 3.3 yrs; 16 skills listed; response rate 0.38; TF-IDF similarity 0.1326.
+CAND_0074326,55,0.3391,Junior ML Engineer with 6.4 yrs; 11 skills listed; response rate 0.81; TF-IDF similarity 0.1324.
+CAND_0087744,56,0.3385,Senior Software Engineer (ML) with 3.9 yrs; 15 skills listed; response rate 0.88; TF-IDF similarity 0.1324.
+CAND_0002344,57,0.3308,Senior Software Engineer (ML) with 4.7 yrs; 18 skills listed; response rate 0.83; TF-IDF similarity 0.1321.
+CAND_0000112,58,0.3236,AI Specialist with 3.8 yrs; 18 skills listed; response rate 0.31; TF-IDF similarity 0.1318.
+CAND_0036173,59,0.3157,Senior Software Engineer (ML) with 3.2 yrs; 14 skills listed; response rate 0.53; TF-IDF similarity 0.1315.
+CAND_0047907,60,0.3136,AI Research Engineer with 6.6 yrs; 16 skills listed; response rate 0.48; TF-IDF similarity 0.1314.
+CAND_0067111,61,0.3127,ML Engineer with 3.9 yrs; 18 skills listed; response rate 0.65; TF-IDF similarity 0.1314.
+CAND_0057742,62,0.3096,Junior ML Engineer with 4.2 yrs; 11 skills listed; response rate 0.58; TF-IDF similarity 0.1312.
+CAND_0072410,63,0.3076,ML Engineer with 4.9 yrs; 14 skills listed; response rate 0.84; TF-IDF similarity 0.1311.
+CAND_0095457,64,0.307,Data Scientist with 4.1 yrs; 17 skills listed; response rate 0.54; TF-IDF similarity 0.1311.
+CAND_0017722,65,0.2998,Data Scientist with 5.7 yrs; 16 skills listed; response rate 0.60; TF-IDF similarity 0.1308.
+CAND_0094916,66,0.2928,Junior ML Engineer with 3.7 yrs; 16 skills listed; response rate 0.66; TF-IDF similarity 0.1305.
+CAND_0007567,67,0.2912,AI Specialist with 6.1 yrs; 15 skills listed; response rate 0.80; TF-IDF similarity 0.1305.
+CAND_0075481,68,0.2898,AI Research Engineer with 3.9 yrs; 13 skills listed; response rate 0.88; TF-IDF similarity 0.1304.
+CAND_0062115,69,0.2895,ML Engineer with 3.9 yrs; 16 skills listed; response rate 0.76; TF-IDF similarity 0.1304.
+CAND_0026855,70,0.2889,Junior ML Engineer with 5.6 yrs; 12 skills listed; response rate 0.26; TF-IDF similarity 0.1304.
+CAND_0090542,71,0.2819,Data Scientist with 4.3 yrs; 13 skills listed; response rate 0.75; TF-IDF similarity 0.1301.
+CAND_0059504,72,0.2796,Junior ML Engineer with 3.3 yrs; 20 skills listed; response rate 0.83; TF-IDF similarity 0.1300.
+CAND_0004628,73,0.2775,AI Research Engineer with 3.3 yrs; 12 skills listed; response rate 0.77; TF-IDF similarity 0.1299.
+CAND_0096547,74,0.2755,Analytics Engineer with 4.3 yrs; 12 skills listed; response rate 0.23; TF-IDF similarity 0.1298.
+CAND_0065561,75,0.2752,Senior Software Engineer (ML) with 4.7 yrs; 16 skills listed; response rate 0.52; TF-IDF similarity 0.1298.
+CAND_0043936,76,0.2721,AI Research Engineer with 3.7 yrs; 13 skills listed; response rate 0.36; TF-IDF similarity 0.1297.
+CAND_0080372,77,0.2708,Computer Vision Engineer with 5.2 yrs; 15 skills listed; response rate 0.63; TF-IDF similarity 0.1296.
+CAND_0054059,78,0.2685,AI Specialist with 3.3 yrs; 19 skills listed; response rate 0.30; TF-IDF similarity 0.1295.
+CAND_0052827,79,0.265,Data Scientist with 5.9 yrs; 16 skills listed; response rate 0.58; TF-IDF similarity 0.1294.
+CAND_0062009,80,0.265,Junior ML Engineer with 5.9 yrs; 16 skills listed; response rate 0.44; TF-IDF similarity 0.1294.
+CAND_0044576,81,0.2579,Senior Software Engineer (ML) with 5.4 yrs; 12 skills listed; response rate 0.34; TF-IDF similarity 0.1291.
+CAND_0076956,82,0.2527,Senior Software Engineer (ML) with 5.7 yrs; 14 skills listed; response rate 0.40; TF-IDF similarity 0.1289.
+CAND_0048660,83,0.2483,ML Engineer with 5.2 yrs; 13 skills listed; response rate 0.32; TF-IDF similarity 0.1287.
+CAND_0009981,84,0.2454,AI Specialist with 3.4 yrs; 14 skills listed; response rate 0.74; TF-IDF similarity 0.1286.
+CAND_0091039,85,0.2436,AI Specialist with 6.8 yrs; 11 skills listed; response rate 0.87; TF-IDF similarity 0.1285.
+CAND_0065430,86,0.2368,ML Engineer with 4.4 yrs; 14 skills listed; response rate 0.71; TF-IDF similarity 0.1282.
+CAND_0023093,87,0.2363,ML Engineer with 5.1 yrs; 15 skills listed; response rate 0.84; TF-IDF similarity 0.1282.
+CAND_0075409,88,0.2348,Junior ML Engineer with 3.2 yrs; 10 skills listed; response rate 0.81; TF-IDF similarity 0.1282.
+CAND_0089444,89,0.231,AI Specialist with 4.5 yrs; 9 skills listed; response rate 0.88; TF-IDF similarity 0.1280.
+CAND_0061590,90,0.2297,Data Scientist with 3.0 yrs; 11 skills listed; response rate 0.63; TF-IDF similarity 0.1279.
+CAND_0018961,91,0.2232,AI Specialist with 5.0 yrs; 15 skills listed; response rate 0.26; TF-IDF similarity 0.1277.
+CAND_0067201,92,0.2207,ML Engineer with 6.0 yrs; 15 skills listed; response rate 0.77; TF-IDF similarity 0.1276.
+CAND_0050297,93,0.2179,Junior ML Engineer with 3.1 yrs; 14 skills listed; response rate 0.39; TF-IDF similarity 0.1275.
+CAND_0072834,94,0.2173,Senior Software Engineer (ML) with 6.2 yrs; 17 skills listed; response rate 0.37; TF-IDF similarity 0.1274.
+CAND_0008092,95,0.2168,Computer Vision Engineer with 4.8 yrs; 16 skills listed; response rate 0.73; TF-IDF similarity 0.1274.
+CAND_0093799,96,0.2164,Data Scientist with 3.1 yrs; 15 skills listed; response rate 0.62; TF-IDF similarity 0.1274.
+CAND_0076587,97,0.2139,AI Specialist with 4.9 yrs; 13 skills listed; response rate 0.46; TF-IDF similarity 0.1273.
+CAND_0062658,98,0.208,Junior ML Engineer with 4.2 yrs; 10 skills listed; response rate 0.81; TF-IDF similarity 0.1271.
+CAND_0042008,99,0.2047,ML Engineer with 5.6 yrs; 11 skills listed; response rate 0.29; TF-IDF similarity 0.1269.
+CAND_0026913,100,0.2,AI Specialist with 3.9 yrs; 17 skills listed; response rate 0.87; TF-IDF similarity 0.1267.

@@ -1,0 +1,21 @@
+candidate_id,rank,score,reasoning,current_title,years_exp,raw_score
+CAND_0033650,1,0.99,Junior ML Engineer with 4.2 yrs; 12 skills listed; response rate 0.52; Technical MiniLM similarity 0.6746.,Junior ML Engineer,4.2,0.6746454238891602
+CAND_0005883,2,0.9639,Computer Vision Engineer with 3.5 yrs; 14 skills listed; response rate 0.78; Technical MiniLM similarity 0.6732.,Computer Vision Engineer,3.5,0.673244833946228
+CAND_0068513,3,0.8882,Computer Vision Engineer with 4.0 yrs; 13 skills listed; response rate 0.80; Technical MiniLM similarity 0.6692.,Computer Vision Engineer,4.0,0.6691815853118896
+CAND_0051936,4,0.7745,AI Research Engineer with 3.9 yrs; 16 skills listed; response rate 0.81; Technical MiniLM similarity 0.6631.,AI Research Engineer,3.9,0.663079023361206
+CAND_0052082,5,0.7608,Computer Vision Engineer with 3.1 yrs; 15 skills listed; response rate 0.83; Technical MiniLM similarity 0.6623.,Computer Vision Engineer,3.1,0.662345826625824
+CAND_0054318,6,0.7571,AI Research Engineer with 3.5 yrs; 16 skills listed; response rate 0.87; Technical MiniLM similarity 0.6621.,AI Research Engineer,3.5,0.662143886089325
+CAND_0097860,7,0.6805,Junior ML Engineer with 3.6 yrs; 15 skills listed; response rate 0.35; Technical MiniLM similarity 0.6580.,Junior ML Engineer,3.6,0.658035397529602
+CAND_0082618,8,0.6652,Data Scientist with 3.7 yrs; 11 skills listed; response rate 0.38; Technical MiniLM similarity 0.6572.,Data Scientist,3.7,0.6572101712226868
+CAND_0081480,9,0.6119,Computer Vision Engineer with 5.6 yrs; 12 skills listed; response rate 0.85; Technical MiniLM similarity 0.6544.,Computer Vision Engineer,5.6,0.6543512344360352
+CAND_0062658,10,0.5958,Junior ML Engineer with 4.2 yrs; 10 skills listed; response rate 0.81; Technical MiniLM similarity 0.6535.,Junior ML Engineer,4.2,0.65348881483078
+CAND_0071432,11,0.5836,Data Scientist with 4.1 yrs; 13 skills listed; response rate 0.47; Technical MiniLM similarity 0.6528.,Data Scientist,4.1,0.6528332829475403
+CAND_0091348,12,0.5469,Senior Software Engineer (ML) with 3.7 yrs; 15 skills listed; response rate 0.86; Technical MiniLM similarity 0.6509.,Senior Software Engineer (ML),3.7,0.650863528251648
+CAND_0015230,13,0.505,Software Engineer with 2.3 yrs; 9 skills listed; response rate 0.19; Technical MiniLM similarity 0.6486.,Software Engineer,2.3,0.6486133337020874
+CAND_0082653,14,0.5008,Software Engineer with 1.2 yrs; 9 skills listed; response rate 0.76; Technical MiniLM similarity 0.6484.,Software Engineer,1.2,0.6483902931213379
+CAND_0000654,15,0.4839,QA Engineer with 4.4 yrs; 13 skills listed; response rate 0.43; Technical MiniLM similarity 0.6475.,QA Engineer,4.4,0.6474794149398804
+CAND_0038105,16,0.4634,Cloud Engineer with 2.7 yrs; 12 skills listed; response rate 0.33; Technical MiniLM similarity 0.6464.,Cloud Engineer,2.7,0.6463789939880371
+CAND_0095947,17,0.46,Civil Engineer with 1.0 yrs; 17 skills listed; response rate 0.54; Technical MiniLM similarity 0.6462.,Civil Engineer,1.0,0.646196722984314
+CAND_0077261,18,0.4407,AI Specialist with 5.7 yrs; 17 skills listed; response rate 0.81; Technical MiniLM similarity 0.6452.,AI Specialist,5.7,0.6451644897460938
+CAND_0017522,19,0.4147,Mechanical Engineer with 1.5 yrs; 18 skills listed; response rate 0.36; Technical MiniLM similarity 0.6438.,Mechanical Engineer,1.5,0.6437677145004272
+CAND_0004773,20,0.3911,Civil Engineer with 2.9 yrs; 21 skills listed; response rate 0.16; Technical MiniLM similarity 0.6425.,Civil Engineer,2.9,0.6425005793571472

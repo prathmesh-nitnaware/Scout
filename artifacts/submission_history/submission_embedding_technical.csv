@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_0033650,1,0.9900000095367432,Junior ML Engineer with 4.2 yrs; 12 skills listed; response rate 0.52; Technical MiniLM similarity 0.6746.
+CAND_0005883,2,0.9639000296592712,Computer Vision Engineer with 3.5 yrs; 14 skills listed; response rate 0.78; Technical MiniLM similarity 0.6732.
+CAND_0068513,3,0.8881999850273132,Computer Vision Engineer with 4.0 yrs; 13 skills listed; response rate 0.80; Technical MiniLM similarity 0.6692.
+CAND_0051936,4,0.7745000123977661,AI Research Engineer with 3.9 yrs; 16 skills listed; response rate 0.81; Technical MiniLM similarity 0.6631.
+CAND_0052082,5,0.7608000040054321,Computer Vision Engineer with 3.1 yrs; 15 skills listed; response rate 0.83; Technical MiniLM similarity 0.6623.
+CAND_0054318,6,0.757099986076355,AI Research Engineer with 3.5 yrs; 16 skills listed; response rate 0.87; Technical MiniLM similarity 0.6621.
+CAND_0097860,7,0.6804999709129333,Junior ML Engineer with 3.6 yrs; 15 skills listed; response rate 0.35; Technical MiniLM similarity 0.6580.
+CAND_0082618,8,0.6651999950408936,Data Scientist with 3.7 yrs; 11 skills listed; response rate 0.38; Technical MiniLM similarity 0.6572.
+CAND_0081480,9,0.6118999719619751,Computer Vision Engineer with 5.6 yrs; 12 skills listed; response rate 0.85; Technical MiniLM similarity 0.6544.
+CAND_0062658,10,0.59579998254776,Junior ML Engineer with 4.2 yrs; 10 skills listed; response rate 0.81; Technical MiniLM similarity 0.6535.
+CAND_0071432,11,0.5835999846458435,Data Scientist with 4.1 yrs; 13 skills listed; response rate 0.47; Technical MiniLM similarity 0.6528.
+CAND_0091348,12,0.5468999743461609,Senior Software Engineer (ML) with 3.7 yrs; 15 skills listed; response rate 0.86; Technical MiniLM similarity 0.6509.
+CAND_0015230,13,0.5049999952316284,Software Engineer with 2.3 yrs; 9 skills listed; response rate 0.19; Technical MiniLM similarity 0.6486.
+CAND_0082653,14,0.5008000135421753,Software Engineer with 1.2 yrs; 9 skills listed; response rate 0.76; Technical MiniLM similarity 0.6484.
+CAND_0000654,15,0.4839000105857849,QA Engineer with 4.4 yrs; 13 skills listed; response rate 0.43; Technical MiniLM similarity 0.6475.
+CAND_0038105,16,0.4634000062942505,Cloud Engineer with 2.7 yrs; 12 skills listed; response rate 0.33; Technical MiniLM similarity 0.6464.
+CAND_0095947,17,0.46000000834465027,Civil Engineer with 1.0 yrs; 17 skills listed; response rate 0.54; Technical MiniLM similarity 0.6462.
+CAND_0077261,18,0.4406999945640564,AI Specialist with 5.7 yrs; 17 skills listed; response rate 0.81; Technical MiniLM similarity 0.6452.
+CAND_0017522,19,0.4147000014781952,Mechanical Engineer with 1.5 yrs; 18 skills listed; response rate 0.36; Technical MiniLM similarity 0.6438.
+CAND_0004773,20,0.3910999894142151,Civil Engineer with 2.9 yrs; 21 skills listed; response rate 0.16; Technical MiniLM similarity 0.6425.
+CAND_0036625,21,0.3837999999523163,QA Engineer with 3.8 yrs; 10 skills listed; response rate 0.10; Technical MiniLM similarity 0.6421.
+CAND_0077881,22,0.36570000648498535,Junior ML Engineer with 4.6 yrs; 17 skills listed; response rate 0.30; Technical MiniLM similarity 0.6411.
+CAND_0025147,23,0.35530000925064087,DevOps Engineer with 3.7 yrs; 11 skills listed; response rate 0.27; Technical MiniLM similarity 0.6406.
+CAND_0059757,24,0.35190001130104065,QA Engineer with 2.9 yrs; 14 skills listed; response rate 0.74; Technical MiniLM similarity 0.6404.
+CAND_0099320,25,0.3499999940395355,Civil Engineer with 3.1 yrs; 16 skills listed; response rate 0.45; Technical MiniLM similarity 0.6403.
+CAND_0007700,26,0.3492000102996826,QA Engineer with 1.5 yrs; 10 skills listed; response rate 0.57; Technical MiniLM similarity 0.6403.
+CAND_0088985,27,0.34150001406669617,DevOps Engineer with 1.9 yrs; 10 skills listed; response rate 0.84; Technical MiniLM similarity 0.6398.
+CAND_0052712,28,0.33880001306533813,AI Research Engineer with 3.1 yrs; 14 skills listed; response rate 0.78; Technical MiniLM similarity 0.6397.
+CAND_0043829,29,0.33880001306533813,AI Research Engineer with 4.8 yrs; 15 skills listed; response rate 0.78; Technical MiniLM similarity 0.6397.
+CAND_0093707,30,0.32899999618530273,Mechanical Engineer with 1.6 yrs; 15 skills listed; response rate 0.09; Technical MiniLM similarity 0.6392.
+CAND_0087336,31,0.3271999955177307,Cloud Engineer with 1.3 yrs; 13 skills listed; response rate 0.76; Technical MiniLM similarity 0.6391.
+CAND_0026082,32,0.3269999921321869,Software Engineer with 2.9 yrs; 11 skills listed; response rate 0.85; Technical MiniLM similarity 0.6391.
+CAND_0005711,33,0.3249000012874603,Frontend Engineer with 2.0 yrs; 15 skills listed; response rate 0.64; Technical MiniLM similarity 0.6389.
+CAND_0056789,34,0.32350000739097595,Frontend Engineer with 3.5 yrs; 10 skills listed; response rate 0.74; Technical MiniLM similarity 0.6389.
+CAND_0062170,35,0.3165999948978424,QA Engineer with 1.4 yrs; 11 skills listed; response rate 0.76; Technical MiniLM similarity 0.6385.
+CAND_0087467,36,0.30970001220703125,Software Engineer with 2.4 yrs; 11 skills listed; response rate 0.44; Technical MiniLM similarity 0.6381.
+CAND_0053794,37,0.3093999922275543,QA Engineer with 2.5 yrs; 13 skills listed; response rate 0.25; Technical MiniLM similarity 0.6381.
+CAND_0063006,38,0.3066999912261963,QA Engineer with 4.3 yrs; 10 skills listed; response rate 0.43; Technical MiniLM similarity 0.6380.
+CAND_0004980,39,0.3046000003814697,Civil Engineer with 1.4 yrs; 18 skills listed; response rate 0.61; Technical MiniLM similarity 0.6379.
+CAND_0006866,40,0.30079999566078186,QA Engineer with 3.3 yrs; 12 skills listed; response rate 0.42; Technical MiniLM similarity 0.6377.
+CAND_0072127,41,0.2973000109195709,Cloud Engineer with 1.2 yrs; 11 skills listed; response rate 0.84; Technical MiniLM similarity 0.6375.
+CAND_0055216,42,0.28630000352859497,Civil Engineer with 2.3 yrs; 22 skills listed; response rate 0.17; Technical MiniLM similarity 0.6369.
+CAND_0052073,43,0.28529998660087585,QA Engineer with 1.5 yrs; 14 skills listed; response rate 0.64; Technical MiniLM similarity 0.6368.
+CAND_0059892,44,0.28519999980926514,Software Engineer with 2.1 yrs; 11 skills listed; response rate 0.13; Technical MiniLM similarity 0.6368.
+CAND_0063753,45,0.28360000252723694,QA Engineer with 1.1 yrs; 11 skills listed; response rate 0.11; Technical MiniLM similarity 0.6367.
+CAND_0084161,46,0.27880001068115234,Senior Software Engineer (ML) with 3.9 yrs; 12 skills listed; response rate 0.77; Technical MiniLM similarity 0.6365.
+CAND_0055068,47,0.2777999937534332,Frontend Engineer with 3.1 yrs; 14 skills listed; response rate 0.74; Technical MiniLM similarity 0.6364.
+CAND_0034849,48,0.2775000035762787,AI Research Engineer with 3.1 yrs; 12 skills listed; response rate 0.29; Technical MiniLM similarity 0.6364.
+CAND_0029220,49,0.27649998664855957,AI Specialist with 3.6 yrs; 10 skills listed; response rate 0.73; Technical MiniLM similarity 0.6363.
+CAND_0051634,50,0.2759999930858612,Frontend Engineer with 1.1 yrs; 13 skills listed; response rate 0.79; Technical MiniLM similarity 0.6363.
+CAND_0093153,51,0.27320000529289246,Mobile Developer with 3.9 yrs; 13 skills listed; response rate 0.13; Technical MiniLM similarity 0.6362.
+CAND_0024636,52,0.2712000012397766,Frontend Engineer with 2.4 yrs; 15 skills listed; response rate 0.12; Technical MiniLM similarity 0.6361.
+CAND_0007159,53,0.2660999894142151,QA Engineer with 2.5 yrs; 12 skills listed; response rate 0.29; Technical MiniLM similarity 0.6358.
+CAND_0002813,54,0.2653999924659729,Civil Engineer with 3.7 yrs; 21 skills listed; response rate 0.31; Technical MiniLM similarity 0.6358.
+CAND_0015267,55,0.2653999924659729,Cloud Engineer with 2.5 yrs; 12 skills listed; response rate 0.40; Technical MiniLM similarity 0.6358.
+CAND_0024645,56,0.26179999113082886,DevOps Engineer with 1.5 yrs; 9 skills listed; response rate 0.60; Technical MiniLM similarity 0.6356.
+CAND_0069430,57,0.26019999384880066,Cloud Engineer with 2.1 yrs; 12 skills listed; response rate 0.80; Technical MiniLM similarity 0.6355.
+CAND_0080217,58,0.25920000672340393,DevOps Engineer with 1.3 yrs; 8 skills listed; response rate 0.46; Technical MiniLM similarity 0.6354.
+CAND_0067437,59,0.25870001316070557,DevOps Engineer with 3.7 yrs; 16 skills listed; response rate 0.85; Technical MiniLM similarity 0.6354.
+CAND_0089908,60,0.25859999656677246,QA Engineer with 1.9 yrs; 11 skills listed; response rate 0.34; Technical MiniLM similarity 0.6354.
+CAND_0033255,61,0.2574999928474426,Frontend Engineer with 3.9 yrs; 11 skills listed; response rate 0.71; Technical MiniLM similarity 0.6353.
+CAND_0052122,62,0.2565999925136566,QA Engineer with 4.7 yrs; 13 skills listed; response rate 0.46; Technical MiniLM similarity 0.6353.
+CAND_0099809,63,0.25529998540878296,Software Engineer with 2.3 yrs; 16 skills listed; response rate 0.56; Technical MiniLM similarity 0.6352.
+CAND_0083100,64,0.2542000114917755,Cloud Engineer with 2.7 yrs; 11 skills listed; response rate 0.68; Technical MiniLM similarity 0.6351.
+CAND_0022327,65,0.2513999938964844,QA Engineer with 2.9 yrs; 14 skills listed; response rate 0.76; Technical MiniLM similarity 0.6350.
+CAND_0047707,66,0.2476000040769577,QA Engineer with 2.5 yrs; 9 skills listed; response rate 0.45; Technical MiniLM similarity 0.6348.
+CAND_0009716,67,0.24709999561309814,Software Engineer with 3.8 yrs; 11 skills listed; response rate 0.18; Technical MiniLM similarity 0.6348.
+CAND_0097252,68,0.24629999697208405,Civil Engineer with 4.3 yrs; 17 skills listed; response rate 0.59; Technical MiniLM similarity 0.6347.
+CAND_0014811,69,0.24570000171661377,Frontend Engineer with 1.7 yrs; 12 skills listed; response rate 0.38; Technical MiniLM similarity 0.6347.
+CAND_0088789,70,0.24220000207424164,DevOps Engineer with 2.4 yrs; 13 skills listed; response rate 0.72; Technical MiniLM similarity 0.6345.
+CAND_0090634,71,0.2410999983549118,Frontend Engineer with 3.7 yrs; 14 skills listed; response rate 0.43; Technical MiniLM similarity 0.6344.
+CAND_0047682,72,0.23980000615119934,Computer Vision Engineer with 5.6 yrs; 13 skills listed; response rate 0.40; Technical MiniLM similarity 0.6344.
+CAND_0076547,73,0.23919999599456787,Software Engineer with 1.8 yrs; 13 skills listed; response rate 0.28; Technical MiniLM similarity 0.6343.
+CAND_0080461,74,0.23569999635219574,Software Engineer with 3.6 yrs; 13 skills listed; response rate 0.39; Technical MiniLM similarity 0.6342.
+CAND_0039789,75,0.23389999568462372,DevOps Engineer with 3.3 yrs; 15 skills listed; response rate 0.13; Technical MiniLM similarity 0.6341.
+CAND_0043819,76,0.2312999963760376,Cloud Engineer with 1.7 yrs; 13 skills listed; response rate 0.38; Technical MiniLM similarity 0.6339.
+CAND_0072803,77,0.22460000216960907,AI Research Engineer with 3.3 yrs; 15 skills listed; response rate 0.56; Technical MiniLM similarity 0.6336.
+CAND_0017004,78,0.2240999937057495,QA Engineer with 1.9 yrs; 15 skills listed; response rate 0.28; Technical MiniLM similarity 0.6335.
+CAND_0099003,79,0.22130000591278076,Software Engineer with 1.9 yrs; 11 skills listed; response rate 0.75; Technical MiniLM similarity 0.6334.
+CAND_0014705,80,0.22050000727176666,Frontend Engineer with 1.7 yrs; 15 skills listed; response rate 0.31; Technical MiniLM similarity 0.6333.
+CAND_0030055,81,0.22020000219345093,QA Engineer with 3.4 yrs; 10 skills listed; response rate 0.54; Technical MiniLM similarity 0.6333.
+CAND_0072775,82,0.21979999542236328,Frontend Engineer with 1.5 yrs; 12 skills listed; response rate 0.31; Technical MiniLM similarity 0.6333.
+CAND_0032368,83,0.21950000524520874,Software Engineer with 3.8 yrs; 9 skills listed; response rate 0.73; Technical MiniLM similarity 0.6333.
+CAND_0096089,84,0.21709999442100525,QA Engineer with 2.3 yrs; 13 skills listed; response rate 0.50; Technical MiniLM similarity 0.6332.
+CAND_0012383,85,0.21549999713897705,Frontend Engineer with 2.3 yrs; 9 skills listed; response rate 0.85; Technical MiniLM similarity 0.6331.
+CAND_0095844,86,0.2152000069618225,Mechanical Engineer with 4.1 yrs; 16 skills listed; response rate 0.23; Technical MiniLM similarity 0.6331.
+CAND_0037290,87,0.21389999985694885,Computer Vision Engineer with 3.2 yrs; 13 skills listed; response rate 0.78; Technical MiniLM similarity 0.6330.
+CAND_0056257,88,0.21379999816417694,DevOps Engineer with 2.9 yrs; 11 skills listed; response rate 0.42; Technical MiniLM similarity 0.6330.
+CAND_0029288,89,0.21379999816417694,Software Engineer with 3.5 yrs; 9 skills listed; response rate 0.11; Technical MiniLM similarity 0.6330.
+CAND_0048705,90,0.21150000393390656,Cloud Engineer with 2.5 yrs; 15 skills listed; response rate 0.48; Technical MiniLM similarity 0.6329.
+CAND_0091599,91,0.21060000360012054,Graphic Designer with 2.7 yrs; 17 skills listed; response rate 0.70; Technical MiniLM similarity 0.6328.
+CAND_0040360,92,0.21050000190734863,QA Engineer with 2.7 yrs; 7 skills listed; response rate 0.57; Technical MiniLM similarity 0.6328.
+CAND_0000467,93,0.210099995136261,QA Engineer with 2.2 yrs; 10 skills listed; response rate 0.20; Technical MiniLM similarity 0.6328.
+CAND_0075464,94,0.2094999998807907,DevOps Engineer with 1.5 yrs; 14 skills listed; response rate 0.57; Technical MiniLM similarity 0.6328.
+CAND_0094978,95,0.20749999582767487,QA Engineer with 1.6 yrs; 12 skills listed; response rate 0.81; Technical MiniLM similarity 0.6326.
+CAND_0014439,96,0.20669999718666077,Civil Engineer with 2.2 yrs; 17 skills listed; response rate 0.59; Technical MiniLM similarity 0.6326.
+CAND_0032798,97,0.20640000700950623,Mobile Developer with 1.3 yrs; 10 skills listed; response rate 0.65; Technical MiniLM similarity 0.6326.
+CAND_0064503,98,0.20640000700950623,Frontend Engineer with 3.0 yrs; 11 skills listed; response rate 0.72; Technical MiniLM similarity 0.6326.
+CAND_0057737,99,0.2012999951839447,QA Engineer with 3.4 yrs; 16 skills listed; response rate 0.19; Technical MiniLM similarity 0.6323.
+CAND_0062477,100,0.20000000298023224,Cloud Engineer with 3.6 yrs; 8 skills listed; response rate 0.61; Technical MiniLM similarity 0.6322.

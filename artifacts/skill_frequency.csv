@@ -1,0 +1,134 @@
+skill,count,pct_of_candidates
+HTML,12246,12.25
+Databricks,12244,12.24
+Redux,12222,12.22
+Terraform,12187,12.19
+Angular,12173,12.17
+Figma,12157,12.16
+Salesforce CRM,12157,12.16
+Vue.js,12142,12.14
+Sales,12138,12.14
+Accounting,12136,12.14
+Agile,12135,12.14
+Kafka,12114,12.11
+Excel,12109,12.11
+BigQuery,12108,12.11
+CI/CD,12108,12.11
+Project Management,12106,12.11
+Airflow,12105,12.1
+AWS,12104,12.1
+Flask,12104,12.1
+Scrum,12083,12.08
+Illustrator,12072,12.07
+Kubernetes,12071,12.07
+ETL,12068,12.07
+CSS,12065,12.06
+Docker,12062,12.06
+Next.js,12058,12.06
+Apache Beam,12054,12.05
+Java,12049,12.05
+Go,12049,12.05
+TypeScript,12048,12.05
+JavaScript,12047,12.05
+dbt,12046,12.05
+REST APIs,12040,12.04
+Spark,12038,12.04
+Marketing,12037,12.04
+Tally,12030,12.03
+GraphQL,12027,12.03
+Snowflake,12027,12.03
+Webpack,12026,12.03
+Six Sigma,11991,11.99
+SEO,11990,11.99
+SAP,11989,11.99
+GCP,11983,11.98
+PostgreSQL,11983,11.98
+Rust,11960,11.96
+Apache Flink,11958,11.96
+gRPC,11957,11.96
+Content Writing,11948,11.95
+SQL,11935,11.94
+Hadoop,11931,11.93
+Redis,11928,11.93
+Tailwind,11917,11.92
+Photoshop,11917,11.92
+FastAPI,11917,11.92
+Microservices,11909,11.91
+PowerPoint,11908,11.91
+Spring Boot,11906,11.91
+Data Pipelines,11905,11.9
+Django,11899,11.9
+MongoDB,11841,11.84
+Node.js,11838,11.84
+Azure,11828,11.83
+React,11811,11.81
+Hugging Face Transformers,5163,5.16
+LangChain,5162,5.16
+Information Retrieval,5135,5.14
+LLMs,5094,5.09
+Recommendation Systems,5091,5.09
+Semantic Search,5087,5.09
+Sentence Transformers,5081,5.08
+Embeddings,5080,5.08
+Vector Search,5065,5.07
+Prompt Engineering,5062,5.06
+Pinecone,5062,5.06
+FAISS,5052,5.05
+RAG,4995,5.0
+Fine-tuning LLMs,4920,4.92
+YOLO,4827,4.83
+GANs,4815,4.81
+Feature Engineering,4809,4.81
+OpenCV,4803,4.8
+ASR,4788,4.79
+Image Classification,4761,4.76
+Computer Vision,4755,4.76
+Speech Recognition,4744,4.74
+CNN,4740,4.74
+Kubeflow,4730,4.73
+MLOps,4727,4.73
+BentoML,4726,4.73
+Data Science,4708,4.71
+Reinforcement Learning,4708,4.71
+Object Detection,4705,4.7
+Diffusion Models,4701,4.7
+MLflow,4691,4.69
+Time Series,4686,4.69
+Weights & Biases,4685,4.69
+Forecasting,4676,4.68
+TTS,4669,4.67
+Statistical Modeling,4634,4.63
+QLoRA,1401,1.4
+pgvector,1394,1.39
+Weaviate,1389,1.39
+Milvus,1384,1.38
+Learning to Rank,1383,1.38
+BM25,1382,1.38
+TensorFlow,1381,1.38
+Qdrant,1379,1.38
+Python,1378,1.38
+PyTorch,1378,1.38
+PEFT,1377,1.38
+LoRA,1371,1.37
+NLP,1358,1.36
+Machine Learning,1349,1.35
+Deep Learning,1342,1.34
+Haystack,1333,1.33
+Elasticsearch,1311,1.31
+LlamaIndex,1308,1.31
+scikit-learn,1288,1.29
+OpenSearch,1286,1.29
+Information Retrieval Systems,7,0.01
+Search Backend,5,0.0
+Text Encoders,5,0.0
+Vector Representations,4,0.0
+Content Matching,4,0.0
+Model Adaptation,4,0.0
+Ranking Systems,4,0.0
+Search & Discovery,4,0.0
+Workflow Orchestration,3,0.0
+Search Infrastructure,3,0.0
+Indexing Algorithms,3,0.0
+Open-source ML libraries,3,0.0
+Natural Language Processing,2,0.0
+Document Processing,1,0.0

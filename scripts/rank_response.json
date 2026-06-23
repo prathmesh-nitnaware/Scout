@@ -1,0 +1,919 @@
+{
+  "status": "success",
+  "runtime_seconds": 15.79,
+  "candidate_count": 100,
+  "jd_experience_parsed": {
+    "min_years": 5,
+    "max_years": 9
+  },
+  "retrieval_stats": {
+    "tfidf_pool_size": 1000,
+    "minilm_pool_size": 1000,
+    "union_pool_size": 1924,
+    "both_retrieved": 76,
+    "tfidf_only": 924,
+    "minilm_only": 924
+  },
+  "candidates": [
+    {
+      "candidate_id": "CAND_0046313",
+      "rank": 1,
+      "score": 0.7771,
+      "reasoning": "Senior Software Engineer (ML) (5.8y); Strong matches: Fine-tuning LLMs, LangChain; High (1 flags); Validated by both retrieval systems; Score: 77.71.",
+      "current_title": "Senior Software Engineer (ML)",
+      "years_exp": 5.8,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0005260",
+      "rank": 2,
+      "score": 0.7552,
+      "reasoning": "Senior NLP Engineer (5.2y); Strong matches: NLP, Embeddings, Python; High (1 flags); Retrieved via keyword matching; Score: 75.52.",
+      "current_title": "Senior NLP Engineer",
+      "years_exp": 5.2,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0094759",
+      "rank": 3,
+      "score": 0.7512,
+      "reasoning": "Lead AI Engineer (8.6y); Strong matches: Hugging Face Transformers, NLP, Fine-tuning LLMs; High; Retrieved via keyword matching; Score: 75.12.",
+      "current_title": "Lead AI Engineer",
+      "years_exp": 8.6,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0066713",
+      "rank": 4,
+      "score": 0.7359,
+      "reasoning": "Senior Software Engineer (ML) (5.7y); Strong matches: Python, LoRA, Hugging Face Transformers; High (1 flags); Retrieved via keyword matching; Score: 73.59.",
+      "current_title": "Senior Software Engineer (ML)",
+      "years_exp": 5.7,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0042029",
+      "rank": 5,
+      "score": 0.7231,
+      "reasoning": "Senior Data Scientist (6.5y); Strong matches: NLP, Elasticsearch, Embeddings; High (1 flags); Retrieved via keyword matching; Score: 72.31.",
+      "current_title": "Senior Data Scientist",
+      "years_exp": 6.5,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0059795",
+      "rank": 6,
+      "score": 0.7231,
+      "reasoning": "Senior Software Engineer (ML) (5.6y); Strong matches: Python, Hugging Face Transformers, LLMs; High (1 flags); Retrieved via keyword matching; Score: 72.31.",
+      "current_title": "Senior Software Engineer (ML)",
+      "years_exp": 5.6,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0008425",
+      "rank": 7,
+      "score": 0.7169,
+      "reasoning": "Senior NLP Engineer (7.8y); Strong matches: Sentence Transformers, LoRA, Hugging Face Transformers; High (1 flags); Retrieved via keyword matching; Score: 71.69.",
+      "current_title": "Senior NLP Engineer",
+      "years_exp": 7.8,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0044855",
+      "rank": 8,
+      "score": 0.7155,
+      "reasoning": "Senior Data Scientist (6.6y); Strong matches: Embeddings, QLoRA, Hugging Face Transformers; High (1 flags); Retrieved via keyword matching; Score: 71.55.",
+      "current_title": "Senior Data Scientist",
+      "years_exp": 6.6,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0088438",
+      "rank": 9,
+      "score": 0.7151,
+      "reasoning": "Senior Software Engineer (ML) (6.6y); Strong matches: Python, LLMs, Pinecone; High (1 flags); Retrieved via keyword matching; Score: 71.51.",
+      "current_title": "Senior Software Engineer (ML)",
+      "years_exp": 6.6,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0003609",
+      "rank": 10,
+      "score": 0.7135,
+      "reasoning": "Senior Software Engineer (ML) (6.1y); Strong matches: Fine-tuning LLMs, Python; High; Retrieved via keyword matching; Score: 71.35.",
+      "current_title": "Senior Software Engineer (ML)",
+      "years_exp": 6.1,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0004555",
+      "rank": 11,
+      "score": 0.7066,
+      "reasoning": "Senior Software Engineer (ML) (5.0y); Strong matches: LLMs, LoRA; High (1 flags); Retrieved via keyword matching; Score: 70.66.",
+      "current_title": "Senior Software Engineer (ML)",
+      "years_exp": 5.0,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0053472",
+      "rank": 12,
+      "score": 0.7019,
+      "reasoning": "Senior Software Engineer (ML) (6.5y); Strong matches: Python, LLMs, Milvus; High (1 flags); Retrieved via keyword matching; Score: 70.19.",
+      "current_title": "Senior Software Engineer (ML)",
+      "years_exp": 6.5,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0071974",
+      "rank": 13,
+      "score": 0.7016,
+      "reasoning": "Senior AI Engineer (7.8y); Strong matches: Elasticsearch, PEFT, Embeddings; Medium (1 flags); Retrieved via keyword matching; Score: 70.16.",
+      "current_title": "Senior AI Engineer",
+      "years_exp": 7.8,
+      "credibility": "Medium"
+    },
+    {
+      "candidate_id": "CAND_0007411",
+      "rank": 14,
+      "score": 0.7008,
+      "reasoning": "Senior Machine Learning Engineer (8.0y); Strong matches: Fine-tuning LLMs, Pinecone, Computer Vision; High (1 flags); Retrieved via keyword matching; Score: 70.08.",
+      "current_title": "Senior Machine Learning Engineer",
+      "years_exp": 8.0,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0091899",
+      "rank": 15,
+      "score": 0.6971,
+      "reasoning": "Senior Software Engineer (ML) (5.8y); Strong matches: Computer Vision, Milvus, FAISS; High (1 flags); Retrieved via keyword matching; Score: 69.71.",
+      "current_title": "Senior Software Engineer (ML)",
+      "years_exp": 5.8,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0040820",
+      "rank": 16,
+      "score": 0.6961,
+      "reasoning": "Senior Software Engineer (ML) (5.5y); Strong matches: LLMs, NLP, Pinecone; High (1 flags); Retrieved via keyword matching; Score: 69.61.",
+      "current_title": "Senior Software Engineer (ML)",
+      "years_exp": 5.5,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0030827",
+      "rank": 17,
+      "score": 0.6949,
+      "reasoning": "Senior Data Scientist (5.4y); Strong matches: LangChain, Hugging Face Transformers, NLP; High (1 flags); Retrieved via keyword matching; Score: 69.49.",
+      "current_title": "Senior Data Scientist",
+      "years_exp": 5.4,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0079064",
+      "rank": 18,
+      "score": 0.6944,
+      "reasoning": "Senior Data Scientist (5.2y); Strong matches: Fine-tuning LLMs, Pinecone, QLoRA; High (1 flags); Retrieved via keyword matching; Score: 69.44.",
+      "current_title": "Senior Data Scientist",
+      "years_exp": 5.2,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0008202",
+      "rank": 19,
+      "score": 0.6926,
+      "reasoning": "Senior Software Engineer (ML) (5.7y); Strong matches: FAISS, Computer Vision, LLMs; High (1 flags); Retrieved via keyword matching; Score: 69.26.",
+      "current_title": "Senior Software Engineer (ML)",
+      "years_exp": 5.7,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0063097",
+      "rank": 20,
+      "score": 0.6851,
+      "reasoning": "Senior Software Engineer (ML) (6.5y); Strong matches: NLP, LoRA, LLMs; High (1 flags); Retrieved via keyword matching; Score: 68.51.",
+      "current_title": "Senior Software Engineer (ML)",
+      "years_exp": 6.5,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0068985",
+      "rank": 21,
+      "score": 0.6848,
+      "reasoning": "Senior Software Engineer (ML) (5.2y); Strong matches: Computer Vision, Hugging Face Transformers; High (1 flags); Retrieved via keyword matching; Score: 68.48.",
+      "current_title": "Senior Software Engineer (ML)",
+      "years_exp": 5.2,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0029367",
+      "rank": 22,
+      "score": 0.6846,
+      "reasoning": "Senior Data Scientist (5.7y); Strong matches: Sentence Transformers, LangChain, Pinecone; Medium (1 flags); Retrieved via keyword matching; Score: 68.46.",
+      "current_title": "Senior Data Scientist",
+      "years_exp": 5.7,
+      "credibility": "Medium"
+    },
+    {
+      "candidate_id": "CAND_0018499",
+      "rank": 23,
+      "score": 0.683,
+      "reasoning": "Senior Machine Learning Engineer (7.2y); Strong matches: Embeddings, Pinecone, QLoRA; Medium (1 flags); Retrieved via keyword matching; Score: 68.30.",
+      "current_title": "Senior Machine Learning Engineer",
+      "years_exp": 7.2,
+      "credibility": "Medium"
+    },
+    {
+      "candidate_id": "CAND_0066075",
+      "rank": 24,
+      "score": 0.68,
+      "reasoning": "Senior Software Engineer (ML) (5.2y); Strong matches: Computer Vision, Hugging Face Transformers; High (1 flags); Retrieved via keyword matching; Score: 68.00.",
+      "current_title": "Senior Software Engineer (ML)",
+      "years_exp": 5.2,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0087783",
+      "rank": 25,
+      "score": 0.68,
+      "reasoning": "Senior Software Engineer (ML) (6.7y); Strong matches: Embeddings, LoRA, LLMs; Medium (1 flags); Retrieved via semantic search; Score: 68.00.",
+      "current_title": "Senior Software Engineer (ML)",
+      "years_exp": 6.7,
+      "credibility": "Medium"
+    },
+    {
+      "candidate_id": "CAND_0065927",
+      "rank": 26,
+      "score": 0.68,
+      "reasoning": "Senior Software Engineer (ML) (6.5y); Strong matches: LoRA, Computer Vision, LLMs; Medium (1 flags); Retrieved via keyword matching; Score: 68.00.",
+      "current_title": "Senior Software Engineer (ML)",
+      "years_exp": 6.5,
+      "credibility": "Medium"
+    },
+    {
+      "candidate_id": "CAND_0070525",
+      "rank": 27,
+      "score": 0.6761,
+      "reasoning": "Senior Software Engineer (ML) (5.4y); Strong matches: Python, LLMs, Embeddings; High (1 flags); Retrieved via keyword matching; Score: 67.61.",
+      "current_title": "Senior Software Engineer (ML)",
+      "years_exp": 5.4,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0005269",
+      "rank": 28,
+      "score": 0.6761,
+      "reasoning": "Senior Software Engineer (ML) (6.1y); Strong matches: Elasticsearch, FAISS, Hugging Face Transformers; High (1 flags); Retrieved via semantic search; Score: 67.61.",
+      "current_title": "Senior Software Engineer (ML)",
+      "years_exp": 6.1,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0055905",
+      "rank": 29,
+      "score": 0.6758,
+      "reasoning": "Senior Machine Learning Engineer (8.1y); Strong matches: Fine-tuning LLMs, Elasticsearch, LangChain; Medium (1 flags); Retrieved via keyword matching; Score: 67.58.",
+      "current_title": "Senior Machine Learning Engineer",
+      "years_exp": 8.1,
+      "credibility": "Medium"
+    },
+    {
+      "candidate_id": "CAND_0046064",
+      "rank": 30,
+      "score": 0.6758,
+      "reasoning": "Senior NLP Engineer (8.9y); Strong matches: PEFT, Pinecone, Elasticsearch; Medium (1 flags); Retrieved via keyword matching; Score: 67.58.",
+      "current_title": "Senior NLP Engineer",
+      "years_exp": 8.9,
+      "credibility": "Medium"
+    },
+    {
+      "candidate_id": "CAND_0049978",
+      "rank": 31,
+      "score": 0.6719,
+      "reasoning": "Senior Software Engineer (ML) (6.6y); Strong matches: Embeddings, Hugging Face Transformers, LoRA; High (1 flags); Retrieved via keyword matching; Score: 67.19.",
+      "current_title": "Senior Software Engineer (ML)",
+      "years_exp": 6.6,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0041696",
+      "rank": 32,
+      "score": 0.6716,
+      "reasoning": "Senior Software Engineer (ML) (6.2y); Strong matches: LoRA, Sentence Transformers, LLMs; High (1 flags); Retrieved via keyword matching; Score: 67.16.",
+      "current_title": "Senior Software Engineer (ML)",
+      "years_exp": 6.2,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0005649",
+      "rank": 33,
+      "score": 0.6684,
+      "reasoning": "Senior Data Scientist (7.4y); Strong matches: QLoRA, Fine-tuning LLMs, RAG; High (1 flags); Retrieved via keyword matching; Score: 66.84.",
+      "current_title": "Senior Data Scientist",
+      "years_exp": 7.4,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0061156",
+      "rank": 34,
+      "score": 0.6649,
+      "reasoning": "Senior Software Engineer (ML) (6.0y); Strong matches: Python, LangChain, Pinecone; High (1 flags); Retrieved via keyword matching; Score: 66.49.",
+      "current_title": "Senior Software Engineer (ML)",
+      "years_exp": 6.0,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0092278",
+      "rank": 35,
+      "score": 0.663,
+      "reasoning": "Senior NLP Engineer (6.8y); Strong matches: QLoRA, NLP, Milvus; Medium (1 flags); Retrieved via keyword matching; Score: 66.30.",
+      "current_title": "Senior NLP Engineer",
+      "years_exp": 6.8,
+      "credibility": "Medium"
+    },
+    {
+      "candidate_id": "CAND_0054859",
+      "rank": 36,
+      "score": 0.6629,
+      "reasoning": "Senior Software Engineer (ML) (6.9y); Strong matches: Computer Vision, Embeddings, PEFT; High (1 flags); Retrieved via keyword matching; Score: 66.29.",
+      "current_title": "Senior Software Engineer (ML)",
+      "years_exp": 6.9,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0070808",
+      "rank": 37,
+      "score": 0.6628,
+      "reasoning": "Junior ML Engineer (6.8y); Strong matches: Fine-tuning LLMs, LLMs, NLP; High (1 flags); Retrieved via keyword matching; Score: 66.28.",
+      "current_title": "Junior ML Engineer",
+      "years_exp": 6.8,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0072263",
+      "rank": 38,
+      "score": 0.6626,
+      "reasoning": "Senior Software Engineer (ML) (6.7y); Strong matches: Pinecone, Fine-tuning LLMs; High (1 flags); Retrieved via keyword matching; Score: 66.26.",
+      "current_title": "Senior Software Engineer (ML)",
+      "years_exp": 6.7,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0082913",
+      "rank": 39,
+      "score": 0.6614,
+      "reasoning": "Senior Software Engineer (ML) (5.5y); Strong matches: LLMs, Elasticsearch, LoRA; Medium (1 flags); Retrieved via keyword matching; Score: 66.14.",
+      "current_title": "Senior Software Engineer (ML)",
+      "years_exp": 5.5,
+      "credibility": "Medium"
+    },
+    {
+      "candidate_id": "CAND_0006437",
+      "rank": 40,
+      "score": 0.6584,
+      "reasoning": "Senior Software Engineer (ML) (6.2y); Strong matches: LLMs; High (1 flags); Retrieved via keyword matching; Score: 65.84.",
+      "current_title": "Senior Software Engineer (ML)",
+      "years_exp": 6.2,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0081321",
+      "rank": 41,
+      "score": 0.6584,
+      "reasoning": "Senior Software Engineer (ML) (5.3y); Strong matches: Python, LoRA, PEFT; Medium (1 flags); Retrieved via keyword matching; Score: 65.84.",
+      "current_title": "Senior Software Engineer (ML)",
+      "years_exp": 5.3,
+      "credibility": "Medium"
+    },
+    {
+      "candidate_id": "CAND_0005538",
+      "rank": 42,
+      "score": 0.6581,
+      "reasoning": "Senior AI Engineer (5.9y); Strong matches: QLoRA, Python, LoRA; High (1 flags); Retrieved via keyword matching; Score: 65.81.",
+      "current_title": "Senior AI Engineer",
+      "years_exp": 5.9,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0093912",
+      "rank": 43,
+      "score": 0.6581,
+      "reasoning": "Senior Data Scientist (5.3y); Strong matches: Elasticsearch, Milvus, Embeddings; High (1 flags); Retrieved via keyword matching; Score: 65.81.",
+      "current_title": "Senior Data Scientist",
+      "years_exp": 5.3,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0033861",
+      "rank": 44,
+      "score": 0.6578,
+      "reasoning": "Senior NLP Engineer (8.0y); Strong matches: LLMs, Milvus, Elasticsearch; Medium (1 flags); Retrieved via keyword matching; Score: 65.78.",
+      "current_title": "Senior NLP Engineer",
+      "years_exp": 8.0,
+      "credibility": "Medium"
+    },
+    {
+      "candidate_id": "CAND_0012837",
+      "rank": 45,
+      "score": 0.6535,
+      "reasoning": "Junior ML Engineer (6.4y); Strong matches: LLMs, NLP; High; Retrieved via keyword matching; Score: 65.35.",
+      "current_title": "Junior ML Engineer",
+      "years_exp": 6.4,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0046525",
+      "rank": 46,
+      "score": 0.6529,
+      "reasoning": "Senior Machine Learning Engineer (6.1y); Strong matches: Sentence Transformers, LLMs, Elasticsearch; Medium (1 flags); Retrieved via keyword matching; Score: 65.29.",
+      "current_title": "Senior Machine Learning Engineer",
+      "years_exp": 6.1,
+      "credibility": "Medium"
+    },
+    {
+      "candidate_id": "CAND_0044576",
+      "rank": 47,
+      "score": 0.6511,
+      "reasoning": "Senior Software Engineer (ML) (5.4y); Strong matches: LangChain; High (1 flags); Retrieved via keyword matching; Score: 65.11.",
+      "current_title": "Senior Software Engineer (ML)",
+      "years_exp": 5.4,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0060315",
+      "rank": 48,
+      "score": 0.6495,
+      "reasoning": "Senior Software Engineer (ML) (5.4y); Strong matches: Computer Vision, QLoRA, Milvus; Medium (1 flags); Retrieved via keyword matching; Score: 64.95.",
+      "current_title": "Senior Software Engineer (ML)",
+      "years_exp": 5.4,
+      "credibility": "Medium"
+    },
+    {
+      "candidate_id": "CAND_0081846",
+      "rank": 49,
+      "score": 0.6491,
+      "reasoning": "Lead AI Engineer (6.7y); Strong matches: Embeddings, Python, Elasticsearch; High (1 flags); Retrieved via keyword matching; Score: 64.91.",
+      "current_title": "Lead AI Engineer",
+      "years_exp": 6.7,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0010257",
+      "rank": 50,
+      "score": 0.6487,
+      "reasoning": "Senior Data Scientist (6.5y); Strong matches: Milvus, Python; High (1 flags); Retrieved via keyword matching; Score: 64.87.",
+      "current_title": "Senior Data Scientist",
+      "years_exp": 6.5,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0030468",
+      "rank": 51,
+      "score": 0.6487,
+      "reasoning": "Senior Applied Scientist (5.4y); Strong matches: Milvus, Computer Vision; High (1 flags); Retrieved via keyword matching; Score: 64.87.",
+      "current_title": "Senior Applied Scientist",
+      "years_exp": 5.4,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0062772",
+      "rank": 52,
+      "score": 0.6487,
+      "reasoning": "Senior Software Engineer (ML) (6.6y); Strong matches: Milvus, Elasticsearch; High (1 flags); Retrieved via keyword matching; Score: 64.87.",
+      "current_title": "Senior Software Engineer (ML)",
+      "years_exp": 6.6,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0026424",
+      "rank": 53,
+      "score": 0.647,
+      "reasoning": "Senior Software Engineer (ML) (5.6y); Strong matches: LoRA, Pinecone, Embeddings; Medium (1 flags); Retrieved via keyword matching; Score: 64.70.",
+      "current_title": "Senior Software Engineer (ML)",
+      "years_exp": 5.6,
+      "credibility": "Medium"
+    },
+    {
+      "candidate_id": "CAND_0025971",
+      "rank": 54,
+      "score": 0.6463,
+      "reasoning": "Junior ML Engineer (5.4y); Strong matches: Fine-tuning LLMs, Sentence Transformers, Python; High (1 flags); Retrieved via keyword matching; Score: 64.63.",
+      "current_title": "Junior ML Engineer",
+      "years_exp": 5.4,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0060835",
+      "rank": 55,
+      "score": 0.6446,
+      "reasoning": "Senior Software Engineer (ML) (6.6y); Strong matches: FAISS, Embeddings, Sentence Transformers; High (1 flags); Retrieved via keyword matching; Score: 64.46.",
+      "current_title": "Senior Software Engineer (ML)",
+      "years_exp": 6.6,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0006567",
+      "rank": 56,
+      "score": 0.6442,
+      "reasoning": "Senior AI Engineer (7.9y); Strong matches: Python, NLP; High (1 flags); Retrieved via keyword matching; Score: 64.42.",
+      "current_title": "Senior AI Engineer",
+      "years_exp": 7.9,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0061257",
+      "rank": 57,
+      "score": 0.6442,
+      "reasoning": "Staff Machine Learning Engineer (8.0y); Strong matches: Python, PEFT; High (1 flags); Retrieved via keyword matching; Score: 64.42.",
+      "current_title": "Staff Machine Learning Engineer",
+      "years_exp": 8.0,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0082086",
+      "rank": 58,
+      "score": 0.641,
+      "reasoning": "Senior Software Engineer (ML) (6.0y); Strong matches: FAISS, Pinecone, Milvus; Medium (1 flags); Validated by both retrieval systems; Score: 64.10.",
+      "current_title": "Senior Software Engineer (ML)",
+      "years_exp": 6.0,
+      "credibility": "Medium"
+    },
+    {
+      "candidate_id": "CAND_0002025",
+      "rank": 59,
+      "score": 0.6406,
+      "reasoning": "Senior AI Engineer (5.9y); Strong matches: FAISS, LangChain, Fine-tuning LLMs; Medium (1 flags); Retrieved via keyword matching; Score: 64.06.",
+      "current_title": "Senior AI Engineer",
+      "years_exp": 5.9,
+      "credibility": "Medium"
+    },
+    {
+      "candidate_id": "CAND_0086022",
+      "rank": 60,
+      "score": 0.6406,
+      "reasoning": "Senior Applied Scientist (5.3y); Strong matches: Sentence Transformers, Pinecone, QLoRA; Medium (1 flags); Retrieved via keyword matching; Score: 64.06.",
+      "current_title": "Senior Applied Scientist",
+      "years_exp": 5.3,
+      "credibility": "Medium"
+    },
+    {
+      "candidate_id": "CAND_0058412",
+      "rank": 61,
+      "score": 0.6398,
+      "reasoning": "Senior Software Engineer (ML) (6.6y); Strong matches: Milvus, Embeddings, Fine-tuning LLMs; Medium (1 flags); Retrieved via keyword matching; Score: 63.98.",
+      "current_title": "Senior Software Engineer (ML)",
+      "years_exp": 6.6,
+      "credibility": "Medium"
+    },
+    {
+      "candidate_id": "CAND_0067643",
+      "rank": 62,
+      "score": 0.6396,
+      "reasoning": "AI Research Engineer (6.0y); Strong matches: NLP, Elasticsearch, LoRA; High (1 flags); Validated by both retrieval systems; Score: 63.96.",
+      "current_title": "AI Research Engineer",
+      "years_exp": 6.0,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0081852",
+      "rank": 63,
+      "score": 0.6388,
+      "reasoning": "Senior Data Scientist (5.9y); Strong matches: LoRA, Milvus, Computer Vision; Medium (1 flags); Retrieved via keyword matching; Score: 63.88.",
+      "current_title": "Senior Data Scientist",
+      "years_exp": 5.9,
+      "credibility": "Medium"
+    },
+    {
+      "candidate_id": "CAND_0025882",
+      "rank": 64,
+      "score": 0.6388,
+      "reasoning": "Senior Software Engineer (ML) (5.6y); Strong matches: Milvus, LoRA, FAISS; Medium (1 flags); Retrieved via keyword matching; Score: 63.88.",
+      "current_title": "Senior Software Engineer (ML)",
+      "years_exp": 5.6,
+      "credibility": "Medium"
+    },
+    {
+      "candidate_id": "CAND_0088025",
+      "rank": 65,
+      "score": 0.6381,
+      "reasoning": "Staff Machine Learning Engineer (8.6y); Strong matches: Elasticsearch, LLMs, Python; Medium (1 flags); Retrieved via keyword matching; Score: 63.81.",
+      "current_title": "Staff Machine Learning Engineer",
+      "years_exp": 8.6,
+      "credibility": "Medium"
+    },
+    {
+      "candidate_id": "CAND_0077337",
+      "rank": 66,
+      "score": 0.6375,
+      "reasoning": "Staff Machine Learning Engineer (7.0y); Strong matches: LLMs, Python, QLoRA; Medium (1 flags); Retrieved via keyword matching; Score: 63.75.",
+      "current_title": "Staff Machine Learning Engineer",
+      "years_exp": 7.0,
+      "credibility": "Medium"
+    },
+    {
+      "candidate_id": "CAND_0053605",
+      "rank": 67,
+      "score": 0.6373,
+      "reasoning": "Senior Software Engineer (ML) (6.9y); Strong matches: LangChain, RAG; High (1 flags); Retrieved via keyword matching; Score: 63.73.",
+      "current_title": "Senior Software Engineer (ML)",
+      "years_exp": 6.9,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0098288",
+      "rank": 68,
+      "score": 0.6351,
+      "reasoning": "Junior ML Engineer (6.7y); Strong matches: Python, NLP, RAG; High (1 flags); Retrieved via keyword matching; Score: 63.51.",
+      "current_title": "Junior ML Engineer",
+      "years_exp": 6.7,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0080344",
+      "rank": 69,
+      "score": 0.6348,
+      "reasoning": "Senior Software Engineer (ML) (4.9y); Strong matches: Sentence Transformers, Computer Vision, LLMs; High; Retrieved via keyword matching; Score: 63.48.",
+      "current_title": "Senior Software Engineer (ML)",
+      "years_exp": 4.9,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0003756",
+      "rank": 70,
+      "score": 0.6345,
+      "reasoning": "Senior Software Engineer (ML) (6.5y); Strong matches: Sentence Transformers, QLoRA, Elasticsearch; Medium (1 flags); Retrieved via keyword matching; Score: 63.45.",
+      "current_title": "Senior Software Engineer (ML)",
+      "years_exp": 6.5,
+      "credibility": "Medium"
+    },
+    {
+      "candidate_id": "CAND_0091229",
+      "rank": 71,
+      "score": 0.6307,
+      "reasoning": "Senior Software Engineer (ML) (7.0y); Strong matches: Elasticsearch, FAISS; High (1 flags); Retrieved via semantic search; Score: 63.07.",
+      "current_title": "Senior Software Engineer (ML)",
+      "years_exp": 7.0,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0072020",
+      "rank": 72,
+      "score": 0.6307,
+      "reasoning": "Senior Software Engineer (ML) (6.1y); Strong matches: Milvus, Elasticsearch; High (1 flags); Retrieved via keyword matching; Score: 63.07.",
+      "current_title": "Senior Software Engineer (ML)",
+      "years_exp": 6.1,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0091745",
+      "rank": 73,
+      "score": 0.6306,
+      "reasoning": "Junior ML Engineer (5.9y); Strong matches: Hugging Face Transformers, Fine-tuning LLMs, Embeddings; High (1 flags); Retrieved via keyword matching; Score: 63.06.",
+      "current_title": "Junior ML Engineer",
+      "years_exp": 5.9,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0041611",
+      "rank": 74,
+      "score": 0.628,
+      "reasoning": "Staff Machine Learning Engineer (6.4y); Strong matches: LangChain, NLP, Fine-tuning LLMs; Medium (1 flags); Retrieved via keyword matching; Score: 62.80.",
+      "current_title": "Staff Machine Learning Engineer",
+      "years_exp": 6.4,
+      "credibility": "Medium"
+    },
+    {
+      "candidate_id": "CAND_0029117",
+      "rank": 75,
+      "score": 0.628,
+      "reasoning": "Senior Software Engineer (ML) (5.6y); Strong matches: PEFT, Fine-tuning LLMs, Sentence Transformers; Medium (1 flags); Retrieved via keyword matching; Score: 62.80.",
+      "current_title": "Senior Software Engineer (ML)",
+      "years_exp": 5.6,
+      "credibility": "Medium"
+    },
+    {
+      "candidate_id": "CAND_0047721",
+      "rank": 76,
+      "score": 0.628,
+      "reasoning": "Senior Data Scientist (7.0y); Strong matches: NLP, Milvus, FAISS; Medium (1 flags); Retrieved via keyword matching; Score: 62.80.",
+      "current_title": "Senior Data Scientist",
+      "years_exp": 7.0,
+      "credibility": "Medium"
+    },
+    {
+      "candidate_id": "CAND_0097472",
+      "rank": 77,
+      "score": 0.6278,
+      "reasoning": "Junior ML Engineer (5.8y); Strong matches: LangChain, Python; High (1 flags); Retrieved via keyword matching; Score: 62.78.",
+      "current_title": "Junior ML Engineer",
+      "years_exp": 5.8,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0088354",
+      "rank": 78,
+      "score": 0.6278,
+      "reasoning": "Junior ML Engineer (6.5y); Strong matches: PEFT, Hugging Face Transformers; High (1 flags); Retrieved via keyword matching; Score: 62.78.",
+      "current_title": "Junior ML Engineer",
+      "years_exp": 6.5,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0057529",
+      "rank": 79,
+      "score": 0.6278,
+      "reasoning": "Junior ML Engineer (6.9y); Strong matches: NLP, Sentence Transformers; High (1 flags); Retrieved via keyword matching; Score: 62.78.",
+      "current_title": "Junior ML Engineer",
+      "years_exp": 6.9,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0013665",
+      "rank": 80,
+      "score": 0.6258,
+      "reasoning": "Senior Software Engineer (ML) (5.2y); Strong matches: QLoRA, Embeddings; Medium (1 flags); Retrieved via keyword matching; Score: 62.58.",
+      "current_title": "Senior Software Engineer (ML)",
+      "years_exp": 5.2,
+      "credibility": "Medium"
+    },
+    {
+      "candidate_id": "CAND_0002344",
+      "rank": 81,
+      "score": 0.6247,
+      "reasoning": "Senior Software Engineer (ML) (4.7y); Strong matches: LLMs, NLP, Pinecone; High (1 flags); Retrieved via keyword matching; Score: 62.47.",
+      "current_title": "Senior Software Engineer (ML)",
+      "years_exp": 4.7,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0014683",
+      "rank": 82,
+      "score": 0.6215,
+      "reasoning": "Senior Software Engineer (ML) (5.6y); Strong matches: FAISS, QLoRA; Medium (1 flags); Retrieved via keyword matching; Score: 62.15.",
+      "current_title": "Senior Software Engineer (ML)",
+      "years_exp": 5.6,
+      "credibility": "Medium"
+    },
+    {
+      "candidate_id": "CAND_0037980",
+      "rank": 83,
+      "score": 0.6215,
+      "reasoning": "Senior Applied Scientist (9.0y); Strong matches: LoRA, NLP, QLoRA; Medium (1 flags); Retrieved via keyword matching; Score: 62.15.",
+      "current_title": "Senior Applied Scientist",
+      "years_exp": 9.0,
+      "credibility": "Medium"
+    },
+    {
+      "candidate_id": "CAND_0001930",
+      "rank": 84,
+      "score": 0.62,
+      "reasoning": "Senior Software Engineer (ML) (6.9y); Strong matches: Milvus, Embeddings, NLP; Medium (1 flags); Retrieved via keyword matching; Score: 62.00.",
+      "current_title": "Senior Software Engineer (ML)",
+      "years_exp": 6.9,
+      "credibility": "Medium"
+    },
+    {
+      "candidate_id": "CAND_0054100",
+      "rank": 85,
+      "score": 0.6175,
+      "reasoning": "Junior ML Engineer (6.0y); Strong matches: QLoRA, Fine-tuning LLMs, Computer Vision; Medium (1 flags); Retrieved via keyword matching; Score: 61.75.",
+      "current_title": "Junior ML Engineer",
+      "years_exp": 6.0,
+      "credibility": "Medium"
+    },
+    {
+      "candidate_id": "CAND_0015967",
+      "rank": 86,
+      "score": 0.6172,
+      "reasoning": "Senior Software Engineer (ML) (5.4y); Strong matches: LLMs, QLoRA, Embeddings; Medium (1 flags); Retrieved via keyword matching; Score: 61.72.",
+      "current_title": "Senior Software Engineer (ML)",
+      "years_exp": 5.4,
+      "credibility": "Medium"
+    },
+    {
+      "candidate_id": "CAND_0028422",
+      "rank": 87,
+      "score": 0.6161,
+      "reasoning": "Junior ML Engineer (5.5y); Strong matches: Pinecone, Computer Vision; High (1 flags); Retrieved via keyword matching; Score: 61.61.",
+      "current_title": "Junior ML Engineer",
+      "years_exp": 5.5,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0012988",
+      "rank": 88,
+      "score": 0.6158,
+      "reasoning": "Senior Software Engineer (ML) (4.3y); Strong matches: Computer Vision, Hugging Face Transformers, Fine-tuning LLMs; High; Retrieved via keyword matching; Score: 61.58.",
+      "current_title": "Senior Software Engineer (ML)",
+      "years_exp": 4.3,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0067866",
+      "rank": 89,
+      "score": 0.6157,
+      "reasoning": "Senior Software Engineer (ML) (6.4y); Strong matches: Elasticsearch, LoRA, Embeddings; Medium (1 flags); Retrieved via keyword matching; Score: 61.57.",
+      "current_title": "Senior Software Engineer (ML)",
+      "years_exp": 6.4,
+      "credibility": "Medium"
+    },
+    {
+      "candidate_id": "CAND_0047542",
+      "rank": 90,
+      "score": 0.6157,
+      "reasoning": "Senior Software Engineer (ML) (5.0y); Strong matches: LoRA, QLoRA, Sentence Transformers; Medium (1 flags); Retrieved via keyword matching; Score: 61.57.",
+      "current_title": "Senior Software Engineer (ML)",
+      "years_exp": 5.0,
+      "credibility": "Medium"
+    },
+    {
+      "candidate_id": "CAND_0065878",
+      "rank": 91,
+      "score": 0.6157,
+      "reasoning": "Senior Data Scientist (7.8y); Strong matches: QLoRA, Fine-tuning LLMs, Computer Vision; Medium (1 flags); Retrieved via keyword matching; Score: 61.57.",
+      "current_title": "Senior Data Scientist",
+      "years_exp": 7.8,
+      "credibility": "Medium"
+    },
+    {
+      "candidate_id": "CAND_0024990",
+      "rank": 92,
+      "score": 0.6146,
+      "reasoning": "Junior ML Engineer (5.2y); Strong matches: LLMs, Computer Vision, Elasticsearch; Medium (1 flags); Retrieved via keyword matching; Score: 61.46.",
+      "current_title": "Junior ML Engineer",
+      "years_exp": 5.2,
+      "credibility": "Medium"
+    },
+    {
+      "candidate_id": "CAND_0001151",
+      "rank": 93,
+      "score": 0.6131,
+      "reasoning": "Junior ML Engineer (5.0y); Strong matches: Milvus; High (1 flags); Retrieved via keyword matching; Score: 61.31.",
+      "current_title": "Junior ML Engineer",
+      "years_exp": 5.0,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0006821",
+      "rank": 94,
+      "score": 0.613,
+      "reasoning": "Senior Software Engineer (ML) (5.0y); Strong matches: FAISS, Computer Vision, Embeddings; Medium (1 flags); Retrieved via keyword matching; Score: 61.30.",
+      "current_title": "Senior Software Engineer (ML)",
+      "years_exp": 5.0,
+      "credibility": "Medium"
+    },
+    {
+      "candidate_id": "CAND_0087006",
+      "rank": 95,
+      "score": 0.613,
+      "reasoning": "Senior Software Engineer (ML) (5.7y); Strong matches: NLP, Computer Vision, QLoRA; Medium (1 flags); Retrieved via keyword matching; Score: 61.30.",
+      "current_title": "Senior Software Engineer (ML)",
+      "years_exp": 5.7,
+      "credibility": "Medium"
+    },
+    {
+      "candidate_id": "CAND_0046278",
+      "rank": 96,
+      "score": 0.6129,
+      "reasoning": "Senior Software Engineer (ML) (4.6y); Strong matches: Fine-tuning LLMs, NLP, Sentence Transformers; High (1 flags); Retrieved via keyword matching; Score: 61.29.",
+      "current_title": "Senior Software Engineer (ML)",
+      "years_exp": 4.6,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0088049",
+      "rank": 97,
+      "score": 0.6113,
+      "reasoning": "Junior ML Engineer (5.9y); Strong matches: Embeddings, Fine-tuning LLMs; High (1 flags); Retrieved via keyword matching; Score: 61.13.",
+      "current_title": "Junior ML Engineer",
+      "years_exp": 5.9,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0074326",
+      "rank": 98,
+      "score": 0.6109,
+      "reasoning": "Junior ML Engineer (6.4y); Strong matches: Pinecone, NLP, LangChain; High (1 flags); Retrieved via keyword matching; Score: 61.09.",
+      "current_title": "Junior ML Engineer",
+      "years_exp": 6.4,
+      "credibility": "High"
+    },
+    {
+      "candidate_id": "CAND_0082291",
+      "rank": 99,
+      "score": 0.609,
+      "reasoning": "Senior Software Engineer (ML) (5.8y); Strong matches: LangChain, Sentence Transformers, Elasticsearch; Medium (1 flags); Retrieved via keyword matching; Score: 60.90.",
+      "current_title": "Senior Software Engineer (ML)",
+      "years_exp": 5.8,
+      "credibility": "Medium"
+    },
+    {
+      "candidate_id": "CAND_0010408",
+      "rank": 100,
+      "score": 0.6089,
+      "reasoning": "Junior ML Engineer (5.7y); Strong matches: LangChain, Milvus, Hugging Face Transformers; High (1 flags); Retrieved via keyword matching; Score: 60.89.",
+      "current_title": "Junior ML Engineer",
+      "years_exp": 5.7,
+      "credibility": "High"
+    }
+  ]
+}

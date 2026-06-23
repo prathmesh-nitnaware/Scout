@@ -1,0 +1,21 @@
+candidate_id,rank,score,reasoning
+CAND_0093707,1,0.9900000095367432,Mechanical Engineer with 1.6 yrs; 15 skills listed; response rate 0.09; MiniLM similarity 0.6675.
+CAND_0021581,2,0.9380999803543092,Mechanical Engineer with 1.6 yrs; 13 skills listed; response rate 0.42; MiniLM similarity 0.6665.
+CAND_0083005,3,0.9207000136375428,Mechanical Engineer with 5.4 yrs; 19 skills listed; response rate 0.69; MiniLM similarity 0.6661.
+CAND_0060220,4,0.8730000257492065,HR Manager with 1.6 yrs; 18 skills listed; response rate 0.71; MiniLM similarity 0.6652.
+CAND_0013264,5,0.8277000188827515,Civil Engineer with 3.9 yrs; 16 skills listed; response rate 0.75; MiniLM similarity 0.6643.
+CAND_0088708,6,0.8082000017166138,Civil Engineer with 6.3 yrs; 19 skills listed; response rate 0.28; MiniLM similarity 0.6639.
+CAND_0061040,7,0.7990000247955322,Mechanical Engineer with 13.3 yrs; 21 skills listed; response rate 0.49; MiniLM similarity 0.6638.
+CAND_0025633,8,0.79830002784729,HR Manager with 4.3 yrs; 18 skills listed; response rate 0.36; MiniLM similarity 0.6637.
+CAND_0086969,9,0.7864000201225281,Mechanical Engineer with 12.6 yrs; 22 skills listed; response rate 0.24; MiniLM similarity 0.6635.
+CAND_0078121,10,0.7617999911308289,Civil Engineer with 7.5 yrs; 18 skills listed; response rate 0.07; MiniLM similarity 0.6630.
+CAND_0009853,11,0.7371000051498413,Mechanical Engineer with 3.9 yrs; 17 skills listed; response rate 0.21; MiniLM similarity 0.6626.
+CAND_0084737,12,0.6753000020980835,Mechanical Engineer with 9.1 yrs; 18 skills listed; response rate 0.47; MiniLM similarity 0.6614.
+CAND_0003676,13,0.6689000129699707,Mechanical Engineer with 13.8 yrs; 21 skills listed; response rate 0.62; MiniLM similarity 0.6612.
+CAND_0082960,14,0.6560999751091003,Civil Engineer with 2.5 yrs; 16 skills listed; response rate 0.53; MiniLM similarity 0.6610.
+CAND_0003067,15,0.6557999849319458,HR Manager with 3.9 yrs; 18 skills listed; response rate 0.61; MiniLM similarity 0.6610.
+CAND_0024309,16,0.6424000263214111,Mechanical Engineer with 6.0 yrs; 16 skills listed; response rate 0.12; MiniLM similarity 0.6607.
+CAND_0080359,17,0.6223999857902527,HR Manager with 5.3 yrs; 19 skills listed; response rate 0.34; MiniLM similarity 0.6603.
+CAND_0075106,18,0.6051999926567078,Civil Engineer with 11.5 yrs; 15 skills listed; response rate 0.18; MiniLM similarity 0.6600.
+CAND_0094966,19,0.5979999899864197,Mechanical Engineer with 14.1 yrs; 17 skills listed; response rate 0.50; MiniLM similarity 0.6599.
+CAND_0020007,20,0.593500018119812,Mechanical Engineer with 4.1 yrs; 19 skills listed; response rate 0.75; MiniLM similarity 0.6598.

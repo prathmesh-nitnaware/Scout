@@ -1,0 +1,43 @@
+{
+  "required_skills": [
+    "Transformers",
+    "LLM",
+    "LoRA",
+    "QLoRA",
+    "PEFT",
+    "Embeddings",
+    "NLP",
+    "Computer Vision",
+    "Python",
+    "PyTorch",
+    "scikit-learn",
+    "FAISS",
+    "AWS",
+    "GCP",
+    "REST API"
+  ],
+  "preferred_skills": [
+    "RAG"
+  ],
+  "experience_min": 5,
+  "experience_max": 9,
+  "target_titles": [
+    "Senior AI Engineer",
+    "AI Engineer",
+    "Machine Learning Engineer",
+    "Senior Machine Learning Engineer",
+    "Lead AI Engineer"
+  ],
+  "industry_preferences": [
+    "AI",
+    "Tech",
+    "SaaS"
+  ],
+  "location_preferences": [
+    "Pune",
+    "Noida",
+    "Tier-1 Indian cities",
+    "Remote",
+    "Hybrid"
+  ]
+}

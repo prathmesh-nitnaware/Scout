@@ -1,0 +1,14 @@
+Required Skills:
+Transformers, LLMs, NLP, Computer Vision, Python, PyTorch, LoRA, QLoRA, PEFT, Embeddings, scikit-learn, FAISS, AWS, GCP, REST API
+
+Preferred Skills:
+RAG
+
+Preferred Experience:
+5-9 years
+
+Target Roles:
+Senior AI Engineer, AI Engineer, Machine Learning Engineer, Senior Machine Learning Engineer, Lead AI Engineer
+
+Preferred Background:
+AI, Tech, SaaS, building production machine learning systems, deep learning architectures, vector search, model deployment, API development.
