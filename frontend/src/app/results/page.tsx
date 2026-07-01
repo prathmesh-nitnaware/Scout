@@ -1,16 +1,16 @@
 import Link from "next/link";
 
 const top10 = [
-  { rank: 1, id: "CAND_0009722", title: "Computer Vision Engineer", exp: 6.2, score: 0.7390, cred: "High" },
-  { rank: 2, id: "CAND_0081480", title: "Computer Vision Engineer", exp: 5.6, score: 0.7389, cred: "High" },
-  { rank: 3, id: "CAND_0053934", title: "Computer Vision Engineer", exp: 5.7, score: 0.7145, cred: "High" },
-  { rank: 4, id: "CAND_0006567", title: "Senior AI Engineer", exp: 7.9, score: 0.7139, cred: "High" },
-  { rank: 5, id: "CAND_0005509", title: "Data Scientist", exp: 6.0, score: 0.6926, cred: "High" },
-  { rank: 6, id: "CAND_0017722", title: "Data Scientist", exp: 5.7, score: 0.6926, cred: "High" },
-  { rank: 7, id: "CAND_0040178", title: "ML Engineer", exp: 5.0, score: 0.6926, cred: "High" },
-  { rank: 8, id: "CAND_0008425", title: "Senior NLP Engineer", exp: 7.8, score: 0.6852, cred: "High" },
-  { rank: 9, id: "CAND_0080372", title: "Computer Vision Engineer", exp: 5.2, score: 0.6852, cred: "High" },
-  { rank: 10, id: "CAND_0099269", title: "Data Scientist", exp: 5.5, score: 0.6809, cred: "High" },
+  { rank: 1, id: "CAND_0005260", title: "Senior NLP Engineer", exp: 5.2, score: 0.7822, cred: "High" },
+  { rank: 2, id: "CAND_0094759", title: "Lead AI Engineer", exp: 8.6, score: 0.7424, cred: "High" },
+  { rank: 3, id: "CAND_0018499", title: "Senior Machine Learning Engineer", exp: 7.2, score: 0.7418, cred: "High" },
+  { rank: 4, id: "CAND_0008425", title: "Senior NLP Engineer", exp: 7.8, score: 0.7377, cred: "High" },
+  { rank: 5, id: "CAND_0092278", title: "Senior NLP Engineer", exp: 6.8, score: 0.7314, cred: "High" },
+  { rank: 6, id: "CAND_0071974", title: "Senior AI Engineer", exp: 7.8, score: 0.7264, cred: "High" },
+  { rank: 7, id: "CAND_0055905", title: "Senior Machine Learning Engineer", exp: 8.1, score: 0.7243, cred: "High" },
+  { rank: 8, id: "CAND_0033861", title: "Senior NLP Engineer", exp: 8.0, score: 0.7179, cred: "High" },
+  { rank: 9, id: "CAND_0046525", title: "Senior Machine Learning Engineer", exp: 6.1, score: 0.6964, cred: "High" },
+  { rank: 10, id: "CAND_0046064", title: "Senior NLP Engineer", exp: 8.9, score: 0.6862, cred: "High" },
 ];
 
 const journeyStages = [
