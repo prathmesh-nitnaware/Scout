@@ -23,7 +23,7 @@ download_file() {
         # Extract the file ID from the Google Drive URL
         FILE_ID=$(echo "$url" | grep -oP '(?<=/d/)[a-zA-Z0-9_-]+|(?<=id=)[a-zA-Z0-9_-]+')
         if [ -n "$FILE_ID" ]; then
-            gdown --id "$FILE_ID" -O "$dest"
+            gdown "$FILE_ID" -O "$dest"
         else
             echo "Error: Could not extract Google Drive file ID from $url"
             gdown "$url" -O "$dest"
