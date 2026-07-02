@@ -61,11 +61,13 @@ def load_cache():
         valid_mask = np.ones(len(df_raw), dtype=bool)
         df = df_raw.copy()
         
+    del df_raw  # Free raw dataframe memory
+        
     # Load embeddings
     embeddings = np.load(EMBEDDINGS_PATH)
     
     # If the embeddings file matches the un-filtered raw dataframe length, mask it
-    if len(embeddings) == len(df_raw):
+    if len(embeddings) == len(valid_mask):
         embeddings = embeddings[valid_mask]
         
     # 🔴 Change 2 — Startup Cache Validation
@@ -76,14 +78,16 @@ def load_cache():
         
     # 🟡 Change 3 — Normalize Embeddings for more stable retrieval
     print("[API] Normalizing embeddings (L2)...")
-    embeddings = embeddings.astype(np.float32)
-    norms = np.linalg.norm(embeddings, axis=1, keepdims=True)
-    embeddings = embeddings / np.maximum(norms, 1e-12)
+    embeddings = embeddings.astype(np.float16)  # Use float16 to halve memory footprint
+    norms = np.linalg.norm(embeddings.astype(np.float32), axis=1, keepdims=True)
+    embeddings = (embeddings / np.maximum(norms, 1e-12)).astype(np.float16)
         
     # Fit TF-IDF matrix
     print("[API] Fitting TF-IDF Matrix on raw candidate text...")
     tfidf_vec = TfidfVectorizer(max_features=20000, sublinear_tf=True, min_df=2, ngram_range=(1,2), stop_words='english')
     tfidf_matrix = tfidf_vec.fit_transform(df['raw_text'])
+    
+    df.drop(columns=['raw_text'], inplace=True, errors='ignore')  # Free up large string column
     
     # Load SentenceTransformer
     print(f"[API] Loading SentenceTransformer '{MODEL_NAME}'...")
