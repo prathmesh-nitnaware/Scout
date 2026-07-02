@@ -61,6 +61,11 @@ def load_cache():
         valid_mask = np.ones(len(df_raw), dtype=bool)
         df = df_raw.copy()
         
+    # HACKATHON OPTIMIZATION: Limit to 25,000 to fit safely in Render Free Tier (512MB RAM)
+    # 25K is still a massive candidate pool and will keep the demo incredibly fast and stable.
+    MAX_CANDIDATES = 25000
+    df = df.head(MAX_CANDIDATES)
+    
     del df_raw  # Free raw dataframe memory
         
     # Load embeddings
@@ -69,6 +74,8 @@ def load_cache():
     # If the embeddings file matches the un-filtered raw dataframe length, mask it
     if len(embeddings) == len(valid_mask):
         embeddings = embeddings[valid_mask]
+        
+    embeddings = embeddings[:MAX_CANDIDATES]
         
     # 🔴 Change 2 — Startup Cache Validation
     if len(df) != len(embeddings):
